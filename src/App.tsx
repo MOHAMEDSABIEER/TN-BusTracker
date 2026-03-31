@@ -576,7 +576,7 @@ export default function App() {
                 {/* Hero Banner */}
                 <div className="w-full relative h-[400px] rounded-[40px] overflow-hidden shadow-2xl group">
                   <img 
-                    src="src/new-Chennai-MTC-ULE-Bus-Routes.png"
+                    src="/new-Chennai-MTC-ULE-Bus-Routes.png"
                     alt="Tamil Nadu Bus" 
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                     referrerPolicy="no-referrer"
