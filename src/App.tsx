@@ -648,7 +648,7 @@ export default function App() {
                       desc: "Simulated real-time GPS",
                       detail: "184 Buses Active",
                       color: "teal",
-                      image: "/bus tracking image.jpg"
+                      image: "/bus_tracking_image.jpg"
                     },
                     { 
                       icon: <Clock className="w-6 h-6" />, 
@@ -656,7 +656,7 @@ export default function App() {
                       desc: "Official TN schedules",
                       detail: "1,240 Stops Syncing",
                       color: "blue",
-                      image: "/OIP-_1_.jpg"
+                      image: "/OIP_1.jpg"
                     },
                     { 
                       icon: <Bell className="w-6 h-6" />, 
