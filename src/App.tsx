@@ -605,7 +605,7 @@ export default function App() {
                       transition={{ delay: 0.4 }}
                       onClick={handleStartTracking}
                       className="bg-teal-600 text-white px-10 py-4 rounded-2xl font-bold text-lg shadow-2xl hover:bg-teal-500 transition-all hover:scale-105 active:scale-95 flex items-center gap-3 group"
-                    />
+                    >
                       <Navigation className="w-5 h-5 group-hover:rotate-12 transition-transform" />
                       Start Tracking Now
                     </motion.button>
