@@ -939,7 +939,7 @@ export default function App() {
           &copy; 2026 Tamil Nadu Bus Tracker System. All rights reserved.
         </p>
   </footer>
-</div>
+    </div>
   
   );
 }
