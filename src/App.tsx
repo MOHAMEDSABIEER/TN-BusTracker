@@ -648,7 +648,7 @@ export default function App() {
                       desc: "Simulated real-time GPS",
                       detail: "184 Buses Active",
                       color: "teal",
-                      image: "src/bus tracking image.jpg"
+                      image: "/bus tracking image.jpg"
                     },
                     { 
                       icon: <Clock className="w-6 h-6" />, 
@@ -656,7 +656,7 @@ export default function App() {
                       desc: "Official TN schedules",
                       detail: "1,240 Stops Syncing",
                       color: "blue",
-                      image: "src/OIP-_1_.jpg"
+                      image: "/OIP-_1_.jpg"
                     },
                     { 
                       icon: <Bell className="w-6 h-6" />, 
@@ -664,7 +664,7 @@ export default function App() {
                       desc: "Arrival notifications",
                       detail: "99.9% Uptime",
                       color: "amber",
-                      image: "src/OIP.jpg"
+                      image: "/OIP.jpg"
                     }
                   ].map((feat, i) => (
                     <motion.button 
