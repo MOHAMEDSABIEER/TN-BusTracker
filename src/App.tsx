@@ -938,10 +938,9 @@ export default function App() {
         <p className={`text-center text-xs font-medium transition-colors duration-300 ${isDarkMode ? 'text-slate-500' : 'text-slate-400'}`}>
           &copy; 2026 Tamil Nadu Bus Tracker System. All rights reserved.
         </p>
-  </footer>
-    </div>
-  
-  );
+ </footer>
+  </div>
+ );
 }
 
 export default App;
