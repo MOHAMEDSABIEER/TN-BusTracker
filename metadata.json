@@ -1,0 +1,5 @@
+{
+  "name": "TN Bus Tracker",
+  "description": "Tamil Nadu State Bus Tracking & Timing System with real-time simulation and district-wise bus schedules.",
+  "requestFramePermissions": ["geolocation"]
+}
