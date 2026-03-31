@@ -940,7 +940,7 @@ export default function App() {
         </p>
  </footer>
   </div>
- 
+ );
 }
 
 export default App;
